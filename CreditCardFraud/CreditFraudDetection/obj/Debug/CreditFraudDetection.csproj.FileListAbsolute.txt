@@ -1,0 +1,16 @@
+D:\Thesis\CurrentThesis\2019\Master\CreditCard\CreditFraudDetection\CreditFraudDetection\obj\Debug\CreditFraudDetection.DetectionForm.resources
+D:\Thesis\CurrentThesis\2019\Master\CreditCard\CreditFraudDetection\CreditFraudDetection\obj\Debug\CreditFraudDetection.Form1.resources
+D:\Thesis\CurrentThesis\2019\Master\CreditCard\CreditFraudDetection\CreditFraudDetection\obj\Debug\CreditFraudDetection.MainForm.resources
+D:\Thesis\CurrentThesis\2019\Master\CreditCard\CreditFraudDetection\CreditFraudDetection\obj\Debug\CreditFraudDetection.Properties.Resources.resources
+D:\Thesis\CurrentThesis\2019\Master\CreditCard\CreditFraudDetection\CreditFraudDetection\obj\Debug\CreditFraudDetection.UpdateDataSetForm.resources
+D:\Thesis\CurrentThesis\2019\Master\CreditCard\CreditFraudDetection\CreditFraudDetection\obj\Debug\CreditFraudDetection.csproj.GenerateResource.Cache
+D:\Thesis\CurrentThesis\2019\Master\CreditCard\CreditFraudDetection\CreditFraudDetection\bin\Debug\CreditFraudDetection.exe.config
+D:\Thesis\CurrentThesis\2019\Master\CreditCard\CreditFraudDetection\CreditFraudDetection\bin\Debug\CreditFraudDetection.exe
+D:\Thesis\CurrentThesis\2019\Master\CreditCard\CreditFraudDetection\CreditFraudDetection\bin\Debug\CreditFraudDetection.pdb
+D:\Thesis\CurrentThesis\2019\Master\CreditCard\CreditFraudDetection\CreditFraudDetection\obj\Debug\CreditFraudDetection.exe
+D:\Thesis\CurrentThesis\2019\Master\CreditCard\CreditFraudDetection\CreditFraudDetection\obj\Debug\CreditFraudDetection.pdb
+D:\Thesis\CurrentThesis\2019\Master\CreditCard\CreditFraudDetection\CreditFraudDetection\obj\Debug\CreditFraudDetection.csprojResolveAssemblyReference.cache
+D:\Thesis\CurrentThesis\2019\Master\CreditCard\CreditFraudDetection\CreditFraudDetection\obj\Debug\CreditFraudDetection.ProgressForm.resources
+C:\Users\USER\Desktop\GitUpload\C#\CreditFraudDetection\CreditFraudDetection\bin\Debug\CreditFraudDetection.exe.config
+C:\Users\USER\Desktop\GitUpload\C#\CreditFraudDetection\CreditFraudDetection\obj\Debug\CreditFraudDetection.exe
+C:\Users\USER\Desktop\GitUpload\C#\CreditFraudDetection\CreditFraudDetection\obj\Debug\CreditFraudDetection.pdb
